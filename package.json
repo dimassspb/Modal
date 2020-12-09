@@ -1,0 +1,19 @@
+{
+  "name": "js-plugins-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimassspb/Modal.git"
+  },
+  "author": "Dmitrii Isakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimassspb/Modal/issues"
+  },
+  "homepage": "https://github.com/dimassspb/Modal#readme"
+}
